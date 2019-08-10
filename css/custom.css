@@ -85,7 +85,7 @@ body
 }
 .hero-image 
 {
-  background-image: url("../Images/SS.jpg");
+  background-image: url("../img/SS.jpg");
   height: 700px;
   background-position: center;
   background-repeat: no-repeat;
@@ -104,4 +104,10 @@ body
 .nav
 {
     background-color: white;
+}
+hr.side
+{
+    height: 4px;
+    width: 5%;
+    background-color: coral;
 }
