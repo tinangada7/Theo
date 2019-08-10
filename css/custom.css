@@ -1,0 +1,107 @@
+html,body
+{
+    scroll-behavior: smooth;
+}
+body
+{
+    font-family: 'Roboto';
+    color: black;
+    
+}
+.navbar-toggler
+{
+    padding: 0;
+    border: none;
+    background: none;
+}
+.navbar-light
+{
+    border: none;
+    
+}
+.logo
+{
+    width: 40px;
+    
+}
+.navbar-brand
+{
+    padding: 0px;
+}
+.navbar-brand
+{
+    margin: 0px;
+    padding: 0px;
+    display: inline;
+}
+.navbar-padding
+{
+    padding: 20px 50px 0px 50px;
+}
+.nav-link
+{
+    font-weight: 500;
+    color: black;
+}
+.navbar-light
+{
+    color: black;
+}
+.navbar
+{
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.nav-item
+{
+    padding: 0px 10px 0px 10px;
+    color: black;
+    text-align: center;
+}
+.nav-link:hover
+{
+    color: #de0f66;
+    transition: 0.3s;
+}
+.bg-light
+{
+    background-color: #ffffff !important;
+}
+.space
+{
+    padding: 50px;
+}
+.main_heading
+{
+    text-align: justify;
+}
+.support
+{
+    padding-top: 25px;
+    font-size: 25px;
+    text-align: justify;
+    color:gray;
+}
+.hero-image 
+{
+  background-image: url("../Images/SS.jpg");
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+}
+.Appname
+{
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    font-size: 80px;
+    color: seashell;
+}
+.nav
+{
+    background-color: white;
+}

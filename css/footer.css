@@ -1,0 +1,32 @@
+.btn-floating
+{
+    color: black;
+}
+.btn-floating:hover
+{
+    color: coral;
+    transition: 0.3s;
+}
+.p_quote
+{
+    padding: 0px;
+    margin: 0px;
+}
+.list-inline-item
+{
+   font-size: 22px;
+}
+.footer_p
+{
+    padding: none;
+    margin: none;
+}
+.f_link
+{
+    color: coral;
+}
+.f_link:hover
+{
+    text-decoration: none;
+    color: coral;
+}
